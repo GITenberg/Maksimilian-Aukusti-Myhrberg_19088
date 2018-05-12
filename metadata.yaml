@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4607
     wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19088#Maksimilian-Aukusti-Myhrberg
 gutenberg_issued: '2006-08-20'
 gutenberg_type: Text
 identifiers:
