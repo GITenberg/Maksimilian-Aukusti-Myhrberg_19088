@@ -1,0 +1,32 @@
+_repo: Maksimilian-Aukusti-Myhrberg_19088
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krohn, Julius
+    aliases:
+    - Krohn, Gyula
+    - Suonio
+    - Krohn, J. (Julius)
+    - Krohn, Julius Leopold Fredrik
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+description: ''
+gutenberg_issued: '2006-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19088'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Myhrberg, August Maximilian, 1797-1867'
+- !lcc 'CT'
+title: Maksimilian Aukusti Myhrberg
+url: http://www.gutenberg.org/ebooks/19088
